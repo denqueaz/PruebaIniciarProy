@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/Login.scss'
 
 const Login = () => {
     return (
@@ -16,7 +17,6 @@ const Login = () => {
                 </form>
             </div>
         </div>
-
     )
 }
 export default Login
